@@ -10,10 +10,9 @@ body{
 
 }
 
-h2{
-  font-family: verdana;
-  font-weight: 300;
-  font-size: 16px;
-  color: white;
-  text-align: center;
+
+
+.link--cta{
+font-size: 16px;
+color: aquamarine;
 }
